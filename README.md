@@ -1,1 +1,2 @@
-# Demand-Forecasting-Challenge
+# Demand Forecasting Challenge
+https://www.kaggle.com/competitions/demand-forecasting-kernels-only/overview 
